@@ -1,0 +1,3 @@
+rasef_gender_homepage:
+    path:     /
+    defaults: { _controller: RasefGenderBundle:Default:index }

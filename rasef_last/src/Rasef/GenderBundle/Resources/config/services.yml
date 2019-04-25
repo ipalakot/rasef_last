@@ -1,0 +1,4 @@
+services:
+#    rasef_gender.example:
+#        class: Rasef\GenderBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]
