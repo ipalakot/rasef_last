@@ -1,13 +1,14 @@
 {
-    "name": "symfony/framework-standard-edition",
+    "name": "Gipcom/RAsef-Website-Last-Version",
     "license": "MIT",
     "type": "project",
     "description": "The \"Symfony Standard Edition\" distribution",
     "autoload": {
         "psr-4": {
-            "": "src/"
+            " ": "src/"
         },
-        "classmap": [ "app/AppKernel.php", "app/AppCache.php" ]
+        "classmap": [ "app/AppKernel.php",
+                      "app/AppCache.php" ]
     },
     "autoload-dev": {
         "psr-4": { "Tests\\": "tests/" },
